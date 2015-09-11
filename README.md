@@ -23,6 +23,7 @@ This image installs the most recent versions of the following:
 - `php5-gd`
 - `php5-intl`
 - `php5-mcrypt`
+- `php5-xsl`
 - `php5-mhash`
 - `sendmail`
 - `composer`
