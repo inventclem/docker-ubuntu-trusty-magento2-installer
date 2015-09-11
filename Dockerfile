@@ -11,6 +11,7 @@ RUN apt-get install -y \
   php5-gd \
   php5-intl \
   php5-mcrypt \
+  php5-xsl \
   php5-mhash \
   sendmail
 RUN curl -sS https://getcomposer.org/installer | php
